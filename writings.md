@@ -21,5 +21,35 @@
  We __note__ an __over-representation of__ T cell-specific eQTLs among susceptibility alleles for autoimmune diseases and __of__ monocyte-specific eQTLs among Alzheimer's and Parkinson's desease variants.   
  This polarization __implicates specific immune cell types in__ these diseases and __points to__ the need to identify the __cell-autonomous effects__ of disease susceptibility variants.   
  Because most disease-associated variants localize to noncoding regions of the genome, __an initial role__ of their function can be __inferred__ from their __proximity to a gene__ and association to gene expression levels or to epigenomic features derived from representative tissues and cell types.  
- __Given the centrol role of__ inflammation in many diseases, we laveraged differences in the genetic structure of human populations to __systematically interogate__ the role of peripherial blood cell types that __represent__ the lymphoid(CD4 plus T lymphocyte) and myeloid(CD14 plus CD16 minus monocyte) __arms__ of the immune system.  
+ __Given the centrol role of__ inflammation in many diseases, we __laveraged__ differences in the genetic structure of human populations to __systematically interogate__ the role of peripherial blood cell types that __represent__ the lymphoid(CD4 plus T lymphocyte) and myeloid(CD14 plus CD16 minus monocyte) __arms__ of the immune system.  
+ The low median Vst estimates __suggest__ __minimal gene expression variance__ between populations.  
+ The putative role of inflammation has __previously been invoked__ in
+  aing-related neurodegenerative diseases such as AD and PD, but our
+  result bring a genetic __underpinning__ and candidate pathways to  these observations.  
+  We provide support for a role of myeloid cells in the __prodromal phase__ of neurodegenerative disease.
+  Both of these cell types __share many of the__ transcriptome patterns of
+  monocytes.  
+  __Despite__ its inherent logistic challenges, the profiling of
+  purified primary cells from multiple human populations __was__ clearly
+  __beneficial in__ several respect, including the __reduction__ of
+  the __credible__ set of variants associated with a given trait.  
+  Though the majority of eQTLs are shared, the ImmVar study __provides
+  clear examples__ of __context specificity__ of eQTLs and has __yeild
+  insights into__ the relative __role__ of two representative cell types __in
+  exerting__ the functional consequences of disease-associated
+  variants.  
+  Further, the __depletion__ of disease-associated eQTLs with effects
+  in both cell-types is __intriguing__ and suggests that the
+  __evolutionary history__ of cell-specific and __pleiotropic__
+  variants is an important area of future investigation.
+  __Overall__, this __component__ of the ImmVar Project represents a
+  strong foundation for future explorations of the role of disease
+  susceptibility variants in an __increadingly diverse matrix__ of cell
+  types, stimuli, and in vivo context.  
+  
+
+* [principles of innate and adaptive immine](http://www.ncbi.nlm.nih.gov/books/NBK27090/)  
+  XXX by cells and molecules that can __mount__ an innate immune response.
+  
+  
  
