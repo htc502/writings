@@ -42,8 +42,8 @@
   in both cell-types is __intriguing__ and suggests that the
   __evolutionary history__ of cell-specific and __pleiotropic__
   variants is an important area of future investigation.
-  __Overall__, this __component__ of the ImmVar Project represents a
-  strong foundation for future explorations of the role of disease
+  __Overall__, this __component__ of the ImmVar Project __represents a
+  strong foundation__ for future explorations of the role of disease
   susceptibility variants in an __increadingly diverse matrix__ of cell
   types, stimuli, and in vivo context.  
   
