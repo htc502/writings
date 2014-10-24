@@ -49,10 +49,10 @@
   
 
 * [principles of innate and adaptive immine](http://www.ncbi.nlm.nih.gov/books/NBK27090/)  
-  XXX by cells and molecules that can __mount__ an innate immune response.
+  XXX by cells and molecules that can __mount__ an innate immune
+  response.  
 
-*
-  [mendelian disease complex disease comorbidity](http://www.sciencedirect.com/science/article/pii/S0092867413010246)  
+* [mendelian disease complex disease comorbidity](http://www.sciencedirect.com/science/article/pii/S0092867413010246)  
   We __conjectured__ that the significant complex-Mendelian
   comorbidities displayed in Figure2 indicate that the genes and
   pathways perturbed in the Mendelian disorders also play a role in
