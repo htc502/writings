@@ -50,6 +50,22 @@
 
 * [principles of innate and adaptive immine](http://www.ncbi.nlm.nih.gov/books/NBK27090/)  
   XXX by cells and molecules that can __mount__ an innate immune response.
+
+*
+  [mendelian disease complex disease comorbidity](http://www.sciencedirect.com/science/article/pii/S0092867413010246)  
+  We __conjectured__ that the significant complex-Mendelian
+  comorbidities displayed in Figure2 indicate that the genes and
+  pathways perturbed in the Mendelian disorders also play a role in
+  the __etiology__  of the corresponding complex diseases.  
+  We hypothesized that the "Mendelian code" could be used to
+  __pinpoint__ loci that harbor complex disease-predisposing genetic
+  variants.  
+  we __probed__ __legacy__ genoe-wide association results and
+  __asked__ whether common variants associated with complex diseases
+  were enriched within the loci implicated by the Mendelian
+  comorbidities.  
+  Overall, these results suggest that the loci implicated by the
+  Mendelian code are likely to contain __a spectrum of__ complex
+  disease predisposing variants, providing testable hypotheses for
+  future gene resequencing and exome analyses.  
   
-  
- 
