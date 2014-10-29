@@ -68,4 +68,35 @@
   Mendelian code are likely to contain __a spectrum of__ complex
   disease predisposing variants, providing testable hypotheses for
   future gene resequencing and exome analyses.  
-  
+
+*
+  [guidelines for investigating causality of sequence variants in human disease](http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html)
+  Without rigorous standards we __risk__ an acceleration of false-positive
+  reports of causality, which would __impede___  the translation of genomic
+  research findings into the clinical diagnostic setting and __hinder__
+  biological understanding of disease.  
+
+* [alzheimer's disease: the forgetting gene](http://www.nature.com/news/alzheimer-s-disease-the-forgetting-gene-1.15342)  
+ That __is set to__ change  
+ It was like a __lightning bolt__, It changed my life..  
+ The chief __was off on__ one of hsi crazy ideas.  
+ She has just given birth to their daughter and was on __maternity
+ leave__.  
+ __Inheriting__ one copy of APOE4 __raises__ a person's __risk__ of developing the
+ disease __fourfold__.  
+ The handful of labs .... did so __in the face of__ indifference from
+ .... , and without the resources needed to validate experimental
+ findings with larger studies.   
+ This __neglect__ of such a strong lead has __puzzled__ some outside the
+ Alzheimer field.  
+ If I had a risk factor like that, I'd __be hot on its trail__.  
+ But interest in lipoprotein is __picking up__.  
+ The amyloid hypothesis is became such a strong __scientific orthodoxy__
+ that it began to be accepted __on the basis of faith rather than  evidence__.  
+ Others __rallied around__ the idea and it has won the most of the funding
+ available to the field ever since.  
+ But Roses did not __subscribe__ to that theory.  
+ __In saying so__,he may have __deterred__ others __from__ investigating a
+ possible ApoE-amyloid link, and __inadvertently__ set up a competition
+ between the two hypotheses for funding.  
+ __Amid__ these concerns, the __spotlight__ has __swung back to__ ApoE.  
