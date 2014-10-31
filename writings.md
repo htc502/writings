@@ -100,3 +100,33 @@
  possible ApoE-amyloid link, and __inadvertently__ set up a competition
  between the two hypotheses for funding.  
  __Amid__ these concerns, the __spotlight__ has __swung back to__ ApoE.  
+
+*
+  [exome sequencing identifies MLL2 mutation as a casuse of Kabuki syndrome](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2930028/)  
+  We __demonstrate__ the successful application of exome sequencing to
+  discover a gene for autosomal dominant disorder, Kabuki syndrome.  
+  The exomes of ten unrelated __probands__ __were subjected to__
+  massively parallel sequencing.  
+  There was no __compelling__ gene containing novel variants in all
+  affected individuals.  
+  __Less stringent filtering criteria permitted modest__ genetic
+  heterogeneity or missing mata, __but identified__ multiple candidate
+  genes.  
+  __As previously__, our analyses focused primarily on
+  nonsynonymous(NS) variants, splice acceptor and donor site
+mutations(SS) and coding indels(I), __anticipating__ that synonymous
+  variants were far less likely to be pathogenic.
+  We also __predicted__ that variants __underlying__ Kabuki syndrome
+  are rare, and __therefore__ likely to be novel.  
+  We alse developed a __post hoc__ ranking of candidate genes based
+  onfunctional impact of vairants present.  
+  __Ultimately__, loss-of-function mutations in MLL2 were identified
+  in nine out of ten cases in the discovery __cohort__.  
+
+* [disease gene discovery through integrative genomics](http://www.annualreviews.org/doi/abs/10.1146/annurev.genom.6.080604.162234)  
+  _Elucidating__ the __inherited basis__ of human disease
+  __fundamentally   involves__ linking genomic variantion to clinical phenotype.  
+  XXXX to __expedite__ human disease gene discovery.  
+  We review __the wide array__ of genomics technologies and data sets now
+  becoming available and how they are being used individually to __aid
+  in__ our search for candidate diease genes.  
