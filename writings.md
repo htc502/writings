@@ -74,3 +74,13 @@
   _Elucidating__ the __inherited basis__ of human disease __fundamentally   involves__ linking genomic variantion to clinical phenotype.  
   XXXX to __expedite__ human disease gene discovery.  
   We review __the wide array__ of genomics technologies and data sets now becoming available and how they are being used individually to __aid in__ our search for candidate diease genes.  
+*
+  [REST and stress resistance in ageing and Alzheimer's disease](http://www.nature.com/nature/journal/v507/n7493/full/nature13163.html)  
+  REST is __induced__ in the aging brain and __declines__ in AD.  
+  A fundamental quesion is why some individuals age with their
+  cognitive function relatively __intact whereas__ others decline and
+  develop Alzheimer's disease.  
+  
+
+* It's my life by Bon Jovi
+ It's my life, it's __now or never__.
