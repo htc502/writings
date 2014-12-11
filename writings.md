@@ -82,5 +82,22 @@
   develop Alzheimer's disease.  
   
 
-* It's my life by Bon Jovi
- It's my life, it's __now or never__.
+* It's my life by Bon Jovi  
+ It's my life, it's __now or never__.  
+ This if for the ones who __stood their ground__.  
+
+* forgo
+ go without something..
+
+* spoken: get a grid on oneself
+  to control one's emotions
+
+*
+  [exploration, normalization, and summaries of high densitt oligonucleotide array probe level data](http://biostatistics.oxfordjournals.org/content/4/2/249.long)  
+  The system uses oligonucleotides with length of 25 base pairs that
+  are used to __probe genes__.  
+  __Typically__, xxxxx..
+
+* sprint R reference manual
+  It __provides__ a High performance Computing(HPC) __harness__ which
+  allow R scripts to run on HPC clusters.  
