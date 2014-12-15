@@ -102,7 +102,7 @@
   It __provides__ a High performance Computing(HPC) __harness__ which
   allow R scripts to run on HPC clusters.  
 
-* best movie quotes of "Matrix"
+* best movie quotes of "Matrix"  
   Morpheus: "This is your last chance. After this, there is no turning
   back. You take the blue pill- the story ends, you wake up in your
   bed and belive whatever you want to believe. You take the red pill-
@@ -110,41 +110,41 @@
   goes."  
 
   Oracle: "I'd ask you to sit down, but, you're not going to
-  anyway. And don't worry about the vase."
+  anyway. And don't worry about the vase."  
   Neo: "Waht
-  vase?"[Neo knocks over a vase of flowers, which shatters on the floor.]
-  Oracle: "That vase."
-  Neo: "I'm sorry..."
+  vase?"[Neo knocks over a vase of flowers, which shatters on the floor.]  
+  Oracle: "That vase."  
+  Neo: "I'm sorry..."  
   Oracle: "I said don't worry about it. I'll get one of my kids to fix
-  it."
-  Neo: "How did you know?"
+  it."  
+  Neo: "How did you know?"  
   Oracle: "Ohh, what's really going to __bake your noodle__ later on
-  is, would  you still have broken it if I hadn't said anything?"
+  is, would  you still have broken it if I hadn't said anything?"  
 
   Agent Smith: "We're willing to wipe the slate clean, give you a
   fresh start. All that we're asking in return is your coorperation in
-  bringing a known terrorist to justice."
+  bringing a known terrorist to justice."  
   Neo: " Yeah, well, that sounds like a pretty good deal. But I think
   I may have a better one. How about, I give you the finger. And you
-  give me my phone call."
+  give me my phone call."  
 
-  Mifune: "How old are you, kid?"
-  Kid: "Eighteen."
-  Mifune: "Should have said sixteen, Imight have vleived taht."
-  Kid: "All right,I'm sixteen."
+  Mifune: "How old are you, kid?"  
+  Kid: "Eighteen."  
+  Mifune: "Should have said sixteen, Imight have vleived taht."  
+  Kid: "All right,I'm sixteen."  
   Mifune: "The minimum age for the Corps's eighteen. Sixteen's too
-  young."
+  young."  
   Kid: "The machines don't care how old I am. They'll kill me just the
-  same."
-  Mifune: "Ain't that the goddamn truth."
+  same."  
+  Mifune: "Ain't that the goddamn truth."  
   Kid: "Please, Captain Mifune, give me a chance. I won't let you
-  down."
+  down."  
   Mifune: "You do, and you're gonna find that me and the machines got
-  something in common."
+  something in common."  
 
-  Oracle: "So, let's get the obvious stuff out of the way."
-  Neo: "You're not human, are you?"
-  Oracle: "It's tough to get any more obvious than that."
+  Oracle: "So, let's get the obvious stuff out of the way."  
+  Neo: "You're not human, are you?"  
+  Oracle: "It's tough to get any more obvious than that."  
 
 * Matrix: reloaded
   Trinity: "Touch me and that hand will never touch anything again."
