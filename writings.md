@@ -149,3 +149,113 @@
 * Matrix: reloaded
   Trinity: "Touch me and that hand will never touch anything again."
   
+*
+  [AlzBase](http://download.springer.com/static/pdf/33/art%253A10.1007%252Fs12035-014-9011-3.pdf?auth66=1418694350_fd34ddb29b5f07dc8e5dc9c855832dc7&ext=.pdf)
+  Alzheimer's Disease __affects a significant portion of__ elderly people
+  worldwide.  
+  Although the amyloid-beta cascade hypothesis has been the
+  __prevailing[generally current; widespread]__ theory for the molecular mechanism of AD in the past
+  few decades, treatment strategies __targeting__ the A-beta cascade
+  __have  not demonstrated effectiveness__ as yet.  
+  Thus, __elucidating the spatial and temporal evolution__ of the
+  molecular pathways in AD remains to be a __daunting task__.  
+  The pathological __hallmarks__ of AD includes xxx and xxx.  
+  We observed __concerted__ perturbation of a hub network in multiple
+  brain regions of AD.
+  we identified 277 genes displaying __the most robust dysregulation__
+  during the aging process.
+  The two major up clusters __displayed shape rise[steep increase?]__
+  after age 50, while the down clusters __demonstrated continous decline__
+  througout the entire adulthood.  
+  xxx is __among__ the xxxx __to be pursued with higher priority__.  
+
+* [quotes from goodread.com](http://www.goodreads.com/quotes)  
+  "Don't cry because it's over, smile because it happened." -Dr.Seuss  
+  "I'm selfish, impatient and a little insecure. I make mistakes, I am
+  out of control and at times hard to handle. But if you can't handle
+  me at my worst, them you sure as hell don't deserve me at my best."
+  -Marilyn Monroe  
+  "There is nothing noble in being superior to your fellow man; true
+  nobility is being superior to your former self." -Ernest Hemingway
+  "Those who cann't change their minds can not change anything."
+  -George Bernard Shaw  
+  "Make the most of yourself.... for that is all there is of you."
+  -Ralph Waldo Emerson
+  "As human beings, our greatness lies not so much in being able to
+  remake the world - that is the myth of the atomic age - as in being
+  able to remake ourselves." -Mahatma Gandhi  
+  "A proud man is always looking down on things and people; and, of course, as long as you are looking down, you cannot see something that is above you." -C.S. Lewis "Always dream and shoot higher than you know you can do. Do not bother just to be
+  better than your contemporaries or predecessors. Try to be better
+  than yourself." -Willian Faulkner  
+  "Once we accept our limits, we go beyond them." - Albert Einstein
+  "The curious paradox is that when I accept myself just as I am, then
+  I can change." -Carl R. Rogers  
+  "I do not believe in taking the right decision, I take a decision
+  and make it right." -Muhammad Ali Jinnah  
+  "There is only one cormer of the universe you can be certain of
+  improving, and that's your own self." -Aldous Huxley  
+  "Motivation is what gets you started. Habit is what keeps you
+  going." -Jim Rohn  
+  "The discontent and frustration that you feel is entirely your own
+  creation." -Stephen Richards  
+  "I like listen. I have learned a great deal from listening
+  carefully. Most people never listen." -Ernest Hemingway
+  "How noble and good everyone could be if, every evening before
+  falling asleep, they were to recall to their minds the events of the
+  whole day and consider exactly what has been good and
+  bad. Thenwithout realzing it, you try to improve yourself at the
+  start of each new day." -Anne Frank, victim of the holocasust of world war II
+  "We first make our habits, then our habits make us." -John Dryden
+  "If the great internet connects us all ... then why are so many of
+  us becoming increasingly isolated?" -Stephe Richards
+  "No one can make you feel inferior without your consent." -Eleanor
+  Roosevelt
+  "The fool doth think he is wise, but the wise man knows himself to
+  be a fool." -William Shakespeare
+  "Whenever you find yourself on the side of the majority, it is time
+  to pause and reflect." -Mark Twain
+  "May you live every day of your life." -Jonathan Swift  
+  "Think before you speak. Read before you think." -Fran Lebowitz  
+  "Let no man pull you so low as to hate him." -Martin Luther King
+  "Knowledge speaks, but  wisdom listens" -Jimi Hendrix
+  "The measure of intelligence is the ability to change" -Albert
+  Einstein
+  "If you win, you need not have to explain..If you lose, you should
+  not be there to explain!" -Adolf Hitler
+  "Yesterday I was clever, so I wanted to change the world. Today I am
+  wise, so I am changing myself." -Rumi
+  "I ask not for any crown  
+  But that which all may win;  
+  Nor try to conquer any world
+  Except the one within." -Lousia May Alcott  
+
+  "Death is no more than passing from one room into another. But
+  therls difference for me, you know. Because in that other room I
+  shall be able to see." -Helen Keller
+  "Honesty is the first chapter of the book wisdom." -Thomas
+  Jefferson, third presendt of American, principal author of the
+  Declaration of Indepedence
+  "Wander is the beginning of wisdom." -Socrate  
+  "A wise man will make more opportunities than he finds." -Francis
+  Bacon
+  "Whenever I hear anyone arguing for slavery, I feel a strong impulse
+  to see it tried on him personally." -Abraham Lincoln(我可以翻译成己
+  所不欲，勿施于人么)  
+  "The public have an insatiable curiosity to know everything, except
+  what is worth knowing." -Oscar Wilde  
+  "Seven Deadly Sins
+  Wealth without work
+  Pleasure without conscience
+  Science without humanity
+  Knowledge without character
+  Politics without principle
+  Commerce without morality
+  Worship without sacrifice." -Mahatma Gandhi  
+  "An expert is a person who has made all the mistakes that can made
+  in a very narrow field." -Niels Bohr
+  "Do you know what we call opinion in the absense of evidence? We
+  call it prejudice." -Micheal Crichton  
+  "A man who dares to waste one hour of time has not discovered the
+  value of life." -Charles Darwin  
+  
+  
