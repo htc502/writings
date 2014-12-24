@@ -176,18 +176,21 @@
   me at my worst, them you sure as hell don't deserve me at my best."
   -Marilyn Monroe  
   "There is nothing noble in being superior to your fellow man; true
-  nobility is being superior to your former self." -Ernest Hemingway
+  nobility is being superior to your former self." -Ernest Hemingway  
   "Those who cann't change their minds can not change anything."
   -George Bernard Shaw  
   "Make the most of yourself.... for that is all there is of you."
-  -Ralph Waldo Emerson
+  -Ralph Waldo Emerson  
   "As human beings, our greatness lies not so much in being able to
   remake the world - that is the myth of the atomic age - as in being
   able to remake ourselves." -Mahatma Gandhi  
-  "A proud man is always looking down on things and people; and, of course, as long as you are looking down, you cannot see something that is above you." -C.S. Lewis "Always dream and shoot higher than you know you can do. Do not bother just to be
+  "A proud man is always looking down on things and people; and, of
+  course, as long as you are looking down, you cannot see something
+  that is above you." -C.S. Lewis  
+  "Always dream and shoot higher than you know you can do. Do not bother just to be
   better than your contemporaries or predecessors. Try to be better
   than yourself." -Willian Faulkner  
-  "Once we accept our limits, we go beyond them." - Albert Einstein
+  "Once we accept our limits, we go beyond them." - Albert Einstein  
   "The curious paradox is that when I accept myself just as I am, then
   I can change." -Carl R. Rogers  
   "I do not believe in taking the right decision, I take a decision
@@ -199,31 +202,32 @@
   "The discontent and frustration that you feel is entirely your own
   creation." -Stephen Richards  
   "I like listen. I have learned a great deal from listening
-  carefully. Most people never listen." -Ernest Hemingway
+  carefully. Most people never listen." -Ernest Hemingway  
   "How noble and good everyone could be if, every evening before
   falling asleep, they were to recall to their minds the events of the
   whole day and consider exactly what has been good and
   bad. Thenwithout realzing it, you try to improve yourself at the
-  start of each new day." -Anne Frank, victim of the holocasust of world war II
-  "We first make our habits, then our habits make us." -John Dryden
+  start of each new day." -Anne Frank, victim of the holocasust of
+  world war II  
+  "We first make our habits, then our habits make us." -John Dryden  
   "If the great internet connects us all ... then why are so many of
-  us becoming increasingly isolated?" -Stephe Richards
+  us becoming increasingly isolated?" -Stephe Richards  
   "No one can make you feel inferior without your consent." -Eleanor
-  Roosevelt
+  Roosevelt  
   "The fool doth think he is wise, but the wise man knows himself to
-  be a fool." -William Shakespeare
+  be a fool." -William Shakespeare  
   "Whenever you find yourself on the side of the majority, it is time
-  to pause and reflect." -Mark Twain
+  to pause and reflect." -Mark Twain  
   "May you live every day of your life." -Jonathan Swift  
   "Think before you speak. Read before you think." -Fran Lebowitz  
-  "Let no man pull you so low as to hate him." -Martin Luther King
-  "Knowledge speaks, but  wisdom listens" -Jimi Hendrix
+  "Let no man pull you so low as to hate him." -Martin Luther King  
+  "Knowledge speaks, but  wisdom listens" -Jimi Hendrix  
   "The measure of intelligence is the ability to change" -Albert
-  Einstein
+  Einstein  
   "If you win, you need not have to explain..If you lose, you should
-  not be there to explain!" -Adolf Hitler
+  not be there to explain!" -Adolf Hitler  
   "Yesterday I was clever, so I wanted to change the world. Today I am
-  wise, so I am changing myself." -Rumi
+  wise, so I am changing myself." -Rumi  
   "I ask not for any crown  
   But that which all may win;  
   Nor try to conquer any world
@@ -231,13 +235,13 @@
 
   "Death is no more than passing from one room into another. But
   therls difference for me, you know. Because in that other room I
-  shall be able to see." -Helen Keller
+  shall be able to see." -Helen Keller  
   "Honesty is the first chapter of the book wisdom." -Thomas
   Jefferson, third presendt of American, principal author of the
-  Declaration of Indepedence
+  Declaration of Indepedence  
   "Wander is the beginning of wisdom." -Socrate  
   "A wise man will make more opportunities than he finds." -Francis
-  Bacon
+  Bacon  
   "Whenever I hear anyone arguing for slavery, I feel a strong impulse
   to see it tried on him personally." -Abraham Lincoln(我可以翻译成己
   所不欲，勿施于人么)  
@@ -252,10 +256,34 @@
   Commerce without morality
   Worship without sacrifice." -Mahatma Gandhi  
   "An expert is a person who has made all the mistakes that can made
-  in a very narrow field." -Niels Bohr
+  in a very narrow field." -Niels Bohr  
   "Do you know what we call opinion in the absense of evidence? We
   call it prejudice." -Micheal Crichton  
   "A man who dares to waste one hour of time has not discovered the
   value of life." -Charles Darwin  
+  "Have no fear of perfection - you'll never reach it." -Salvador Dali
+  "Don't spend time beating on a wall, hoping to transform it into a
+  door." -Coco Chanel  
+  "Greate minds discuss ideas. Average minds discuss events. Small
+  minds discuss people." -Henry Thomas Buckle  
+  "What is written without effert is in general read without pleasure"
+  -anonymous  
+  "Our greatest glory is not in never falling, but in rising every
+  time we fall" -Confucius
+  "At the end of the day, let there be no excuses, no explanations, no
+  regrets." -Steve Maraboli  
+  "Nothing in the world is completely wrong. Even a stopped clock is
+  right twice a day." -Paul Ceolho  
+  "You're neve as good as everyone tells you when you win, and you're
+  never as bad as they say when you lose." -Lou Holtz  
+  "All men want, not something to do with, but something to do, or
+  rather something to be." -Henry David Thoreau  
+  "There is nothing either good or bad, but thinking makes it so."
+  -William Shakespeare  
+  "Wise man speank because they have something to say; fools becuase
+  they have to say something." -Plato  
+  "Be kind, for everyone you meet is fighting a hard battle."
+  -Socrates
+  
   
   
