@@ -285,5 +285,18 @@
   "Be kind, for everyone you meet is fighting a hard battle."
   -Socrates
   
-  
-  
+*
+  [RankProd for DEG analysis](http://www.sciencedirect.com/science/article/pii/S0014579304009354)
+  The reason for why this p-value(=RP value) cannot be use directly to
+  __assess the significance__ of an observed expresssion change is simple:
+  We are not interested in the probability that a gene shows a certain
+  expression pattern, but in the __combined probability__,p, of all
+  expression patterns __that are as unlikely__.  
+
+* Abnormalities in human pluripotent cells due to reprogramming mechanisms
+  Although embryonic stem cells from in vitro fertilization
+  embryos(IVF ES cells) __represent__ the "golden standard", they are
+  __allogeneic__ to patients.  
+  Autologous induced pluripotenet stem cells (iPSCs) __are prone to__
+  epigenetic and transcriptional aberrations.
+  xxxx __were subjected to__ genome wide analyses.  
