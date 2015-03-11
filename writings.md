@@ -300,3 +300,8 @@
   Autologous induced pluripotenet stem cells (iPSCs) __are prone to__
   epigenetic and transcriptional aberrations.
   xxxx __were subjected to__ genome wide analyses.  
+
+* Creatingpackages by Leisch
+  R is case-sensitive as __are__ most operating systems(except
+  Windows).
+  
