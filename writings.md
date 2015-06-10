@@ -48,7 +48,7 @@
  That __is set to__ change  
  It was like a __lightning bolt__, It changed my life..  
  The chief __was off on__ one of hsi crazy ideas.  
- She has just given birth to their daughter and was on __maternity leave__.  
+ She has just given birth to Their daughter and was on __maternity leave__.  
  __Inheriting__ one copy of APOE4 __raises__ a person's __risk__ of developing the disease __fourfold__.  
  The handful of labs .... did so __in the face of__ indifference from .... , and without the resources needed to validate experimental findings with larger studies.   
  This __neglect__ of such a strong lead has __puzzled__ some outside the Alzheimer field.  
@@ -285,8 +285,7 @@
   "Be kind, for everyone you meet is fighting a hard battle."
   -Socrates
   
-*
-  [RankProd for DEG analysis](http://www.sciencedirect.com/science/article/pii/S0014579304009354)
+* [RankProd for DEG analysis](http://www.sciencedirect.com/science/article/pii/S0014579304009354)  
   The reason for why this p-value(=RP value) cannot be use directly to
   __assess the significance__ of an observed expresssion change is simple:
   We are not interested in the probability that a gene shows a certain
@@ -298,10 +297,11 @@
   embryos(IVF ES cells) __represent__ the "golden standard", they are
   __allogeneic__ to patients.  
   Autologous induced pluripotenet stem cells (iPSCs) __are prone to__
-  epigenetic and transcriptional aberrations.
+  epigenetic and transcriptional aberrations.  
   xxxx __were subjected to__ genome wide analyses.  
 
-* Creatingpackages by Leisch
-  R is case-sensitive as __are__ most operating systems(except
-  Windows).
+* Creating packages by Leisch  
+  R is case-sensitive as __are__ most operating systems(except Windows).  
   
+* Shosshani T-Identification of a novel hypoxia-inducible factor 1-responsive gene, RTP801, involved in apoptosis
+  Hypoxia is an important factor that __elicits__ numerous physiological and pathological responses.  
